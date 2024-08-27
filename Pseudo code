@@ -1,0 +1,44 @@
+// Pseudo Code
+
+Q1:
+
+1 START
+2 INPUT num1
+3 INPUT num2
+4 INPUT num3
+5 SET max to num1
+6 IF num2 > max THEN
+7 SET max to num2
+8 ENDIF
+9 IF num3 > max THEN
+10 SET max to num3
+11 ENDIF
+12 PRINT "The maximum number is: " + max
+13 END
+
+Q2:
+
+1 START
+2 INPUT num1
+3 INPUT num2
+4 INPUT num3
+5 SET sum to -(num1 + num2 + num3)
+6 SET sum to sum * -1
+7 PRINT "The sum of the numbers is: " + sum
+8 END
+
+Q3:
+
+1 START
+2 INPUT num1
+3 INPUT operator
+4 INPUT num2
+5 SET result to 0
+6 IF operator = '+' THEN
+7 SET result to num1 + num2
+8 ENDIF
+9 IF operator = '-' THEN
+10 SET result to num1 - num2
+11 ENDIF
+12 PRINT "The result is: " + result
+13 END
