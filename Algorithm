@@ -1,0 +1,56 @@
+//Question1 
+
+1 Start
+2 Input num_1
+3 Input num_2
+4 If num_2÷ num_1 == 0 then:
+5 Print "num_1 is a divisor of num_2"
+6 Set num_3=num_2÷num_1
+7 If num_3÷ 2 == 0 then:
+8 Print " num_3 is an even number"
+9 Else Print " is an odd number"
+9 End
+
+//Question2 
+
+1 Start
+2 Read num
+3 If num == 1 then:
+ Print "January"
+4 Else if num == 2 then:
+ Print "February"
+5 Else if num == 3 then:
+ Print "March"
+7 Else if num == 4 then:
+ Print "April"
+8 Else if num == 5 then:
+ Print "May"
+9 Else if num == 6 then:
+ Print "June"
+10 Else if num == 7 then:
+ Print "July"
+11 Else if num == 8 then:
+ Print "August"
+12 Else if num == 9 then:
+ Print "September"
+13 Else if num == 10 then:
+ Print "October"
+14 Else if num == 11 then:
+ Print "November"
+15 Else if num == 12 then:
+ Print "December"
+Else:
+Print "Invalid month num"
+
+
+//Question 3 
+
+1 Start
+2 Read n1,n2,operator
+3 if operator=='+' then Print "n1+n2"
+4 if operator=='-' then print "n1-n2"
+5 if operator=='*' then print "n1*n2"
+6 if operator=='/' then print "n1/n2"
+7 if operator=='%' then print "n1%n2"
+8 else print "enter a valid operator"
+9 Stop
