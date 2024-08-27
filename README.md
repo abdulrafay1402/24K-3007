@@ -2,8 +2,8 @@
 *Name: Abdul Rafay<br>
 *Roll Number:24k-3007<br>
 *Introduction:<br>
--I have completed my HSSC from bahria college karsaz<br>
--I love to play cricket <br>
+-I have completed my SSC from UPSS-IX, HSC from BAHRIA COLLEGE KARSAZ and enrolled in FAST for higher Education <br>
+-I like to play cricket a little bit <br>
 -I am 17<br>
 -Netflix freak<br>
 >***DO PLANNING LIKE KALEEN BHAIYA***
